@@ -149,7 +149,7 @@
             this.Controls.Add(this.Confirm);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "CountDownAndRestart By QQ1036673441";
+            this.Text = "ShutdownOrRestart By QQ1036673441";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Number)).EndInit();
             this.ResumeLayout(false);
